@@ -1,0 +1,5 @@
+{
+  "name": "Mastermind Code Cracker",
+  "description": "A skeuomorphic password cracking game. Guess the secret color code within a limited number of attempts. Features configurable difficulty, code length, and color variety.",
+  "requestFramePermissions": []
+}
