@@ -1,8 +1,10 @@
 # Mastermind Code Cracker
 
+**[➡️ Play the Live Demo Here ⬅️](https://ai.studio/apps/drive/1Eual5y0dI2zqp6_kJFLf3y2tqDgDgc2m)**
+
 A modern, skeuomorphic take on the classic Mastermind board game. Challenge yourself to crack the secret code within a limited number of attempts in a high-tech, retro-futuristic interface.
 
-![A screenshot of the Mastermind Code Cracker game in progress.](https://raw.githubusercontent.com/vandazia/Code-Cracker-Game/main/public/images/screenshot.png)
+[![A screenshot of the Mastermind Code Cracker game in progress.](https://raw.githubusercontent.com/vandazia/Code-Cracker-Game/main/public/images/screenshot.png)](https://ai.studio/apps/drive/1Eual5y0dI2zqp6_kJFLf3y2tqDgDgc2m)
 
 ---
 
