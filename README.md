@@ -3,7 +3,7 @@
 
 A modern, skeuomorphic take on the classic Mastermind board game. Challenge yourself to crack the secret code within a limited number of attempts in a high-tech, retro-futuristic interface.
 
-![A screenshot of the Mastermind Code Cracker game in progress.](https://storage.googleapis.com/aistudio-hosting/project-assets/b1e2e9c1-7b0e-4b2a-8c54-8c88725841e2/screenshots/code-cracker-gameplay.png)
+![A screenshot of the Mastermind Code Cracker game in progress.](./public/images/screenshot.png)
 
 ---
 
